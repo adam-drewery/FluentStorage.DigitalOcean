@@ -1,4 +1,4 @@
-name: NuGet Package Deployment
+name: Build & Release
 
 on:
   push:
